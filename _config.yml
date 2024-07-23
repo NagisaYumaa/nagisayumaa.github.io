@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.fhan7-1.fna.fbcdn.net/v/t39.30808-6/433002347_2351701951686515_3783951211469131666_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGXLUbx62UJiXH05LLZ093nVxT675x4M_5XFPrvnHgz_o4DrBv25E4cykG67PEiiEF_rp_4nDt-1Ht5VfO6rZTU&_nc_ohc=5Y9c8bnymNEQ7kNvgFdOZYZ&_nc_ht=scontent.fhan7-1.fna&oh=00_AYBXUjwaa1E2wYIkobV0xJvLiJ5ZZ2OphYkhOgZL-ZlUyQ&oe=669661FA
+avatar: /assets/img/favicons/mstile-150x150.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
