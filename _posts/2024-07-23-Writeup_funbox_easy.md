@@ -2,7 +2,7 @@
 title: WRITE-UP FUNBOX EASY
 date: 2024-07-23 14:59:59 +0700
 categories: [vulnhub, pentest, red team, oscp]
-tags: [write up]     # TAG names should always be lowercase
+tags: [vulnhub]     # TAG names should always be lowercase
 ---
 
 # Write-Up funbox:  Easy
