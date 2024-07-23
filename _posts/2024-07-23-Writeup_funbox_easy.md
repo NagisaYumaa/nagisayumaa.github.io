@@ -1,7 +1,7 @@
 ---
 title: WRITE-UP FUNBOX EASY
 date: 2024-07-23 14:59:59 +0700
-categories: [vulnhub, pentest, red team, oscp]
+categories: [write up, vulnhub, red team, oscp]
 tags: [vulnhub]     # TAG names should always be lowercase
 ---
 
