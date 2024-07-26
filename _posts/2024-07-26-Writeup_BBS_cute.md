@@ -1,5 +1,5 @@
 ---
-title: WRITE-UP PHOTOGRAPHER
+title: WRITE-UP BBS-Cute
 date: 2024-07-26 16:59:59 +0700
 categories: [write up, vulnhub, red team, oscp]
 tags: [vulnhub]     # TAG names should always be lowercase
