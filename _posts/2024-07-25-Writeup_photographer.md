@@ -48,11 +48,11 @@ hmmm 445-139 SMB ? mail ? maybe have some things
 ![alt text](/assets/img/photographer/photo_smbrecon.png)
 
 i have email user maybe is 
-``` daisa@/assets/img/photographer/photographer.com ``` and a letter ``` babygirl ```
+``` daisa@photographer.com ``` and a letter ``` babygirl ```
 
 ## 2. Post Exploitation
 
-okey let's become ```koken site`` and i will try with my information i have .
+okey let's become ```koken site``` and i will try with my information i have .
 
 ![alt text](/assets/img/photographer/photo_kokenlogin.png)
 
