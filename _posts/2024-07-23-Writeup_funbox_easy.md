@@ -8,7 +8,7 @@ tags: [vulnhub]     # TAG names should always be lowercase
 # Write-Up funbox:  Easy
 ## 1. Enumeration
 
-i used netdicover to see where is ur lab
+i used netdicover to see where is my lab
 
 ```terminal
 sudo netdiscover
