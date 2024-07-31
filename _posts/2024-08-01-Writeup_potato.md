@@ -68,7 +68,7 @@ after crack i can get pass ```webadmin``` is ```dragon```
 
 i'm using ``` sudo -l ``` to want to see i can run sudo to get ```root``` user and i get everything can run after path ```/notes/``` with ```sudo``` and ```nice``` command
 
-And we can borrows ```path travelsal ``` file in linux to go us to ```/bin/bash``` to get ```root```
+And we can borrow ```path travelsal ``` file in linux to go us to ```/bin/bash``` to get ```root```
 
 ```
 sudo -l
