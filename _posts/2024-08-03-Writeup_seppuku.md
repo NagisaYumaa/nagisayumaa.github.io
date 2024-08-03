@@ -1,5 +1,5 @@
 ---
-title: WRITE-UP FUNBOX-7 / FUNBOX EASYENUM
+title: WRITE-UP Seppuku
 date: 2024-08-03 00:00:01 +0700
 categories: [write up, vulnhub, red team, oscp]
 tags: [vulnhub]     # TAG names should always be lowercase

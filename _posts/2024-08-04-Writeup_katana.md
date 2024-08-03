@@ -1,3 +1,9 @@
+---
+title: WRITE-UP katana
+date: 2024-08-04 00:00:01 +0700
+categories: [write up, vulnhub, red team, oscp]
+tags: [vulnhub]     # TAG names should always be lowercase
+---
 # Write-up katana
 
 ## 1. Enumeration
