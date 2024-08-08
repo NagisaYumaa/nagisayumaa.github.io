@@ -4,6 +4,7 @@ date: 2024-08-05 00:01:01 +0700
 categories: [write up, vulnhub, red team, oscp]
 tags: [vulnhub]     # TAG names should always be lowercase
 ---
+
 # Write-Up LamPiao
 
 ## 1. Enumeration
