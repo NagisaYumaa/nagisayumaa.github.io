@@ -4,6 +4,7 @@ date: 2024-08-05 00:00:01 +0700
 categories: [write up, vulnhub, red team, oscp]
 tags: [vulnhub]     # TAG names should always be lowercase
 ---
+
 # Write-Up Money_box
 
 ## 1. Enumeration
