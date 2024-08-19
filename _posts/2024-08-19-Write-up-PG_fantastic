@@ -2,7 +2,7 @@
 title: WRITE-UP fanatastic
 date: 2024-08-19 09:00:01 +0700
 categories: [write up, proving ground, red team, oscp]
-tags: [proving ground]     # TAG names should always be lowercase
+tags: [proving_ground]     # TAG names should always be lowercase
 ---
 
 # Write-up PG_fanatastic
