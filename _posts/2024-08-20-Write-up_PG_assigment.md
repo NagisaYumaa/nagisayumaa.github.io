@@ -1,3 +1,9 @@
+---
+title: WRITE-UP assignment
+date: 2024-08-20 09:00:01 +0700
+categories: [write up, proving ground, red team, oscp]
+tags: [proving ground]     # TAG names should always be lowercase
+---
 # Write-up  PG_assigment
 
 * nmap to get port open
