@@ -9,7 +9,7 @@ tags: [proving ground]     # TAG names should always be lowercase
 ## Enumeration 
 * enumaration nmap port IP ``` 192.168.228.43```
 
-![alt text](/assets/img/PG_helpdesk/imgge.png)
+![alt text](/assets/img/PG_helpdesk/image.png)
 
 135
 139 - 445 smb
@@ -21,10 +21,10 @@ tags: [proving ground]     # TAG names should always be lowercase
 ```
 nmap --script smb-vuln*.nse -p 139,445 smb-vuln-scan --min-rate=2000 192.168.214.43 -Pn 
 ```
-![alt text](/assets/img/PG_helpdesk/imgge-1.png)
+![alt text](/assets/img/PG_helpdesk/image-1.png)
 
 * i payload with this command and get shell :>
 
-![alt text](/assets/img/PG_helpdesk/imgge-3.png)
+![alt text](/assets/img/PG_helpdesk/image-3.png)
 
-![alt text](/assets/img/PG_helpdesk/imgge-2.png)
+![alt text](/assets/img/PG_helpdesk/image-2.png)
