@@ -1,7 +1,7 @@
 ---
 title: WRITE-UP PG_helpdesk
 date: 2024-08-26 09:00:01 +0700
-categories: [write up, proving ground, red team, oscp, windows]
+categories: [write up, proving ground, red team, oscp]
 tags: [proving ground]     # TAG names should always be lowercase
 ---
 # Write up PG_helpdesk
